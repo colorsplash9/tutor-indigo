@@ -57,7 +57,7 @@ This plugin can serve as a starting point to create your own themes. Just fork t
 
 You will have to start by installing indigo from source::
 
-    git clone https://github.com/overhangio/tutor-indigo.git
+    git clone https://github.com/colorsplash9/tutor-indigo.git
     pip install -e ./tutor-indigo
     tutor plugins enable indigo
 
